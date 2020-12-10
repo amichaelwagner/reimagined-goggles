@@ -4,22 +4,15 @@
 
   <panel>
     <number>1</number>
-    <image>https://sample.com/image1.jpg</image>
-    <url>https://sample.com/donate</url>
+    <image>https://github.com/amichaelwagner/reimagined-goggles/blob/main/placeholder1.jpg?raw=true</image>
+    <url>https://www.jacapps.com/blog/its-going-to-be-an-appy-christmas-for-retailers</url>
     <redirect>n</redirect>
   </panel>
   
   <panel>
     <number>2</number>
-    <image>https://sample.com/image2.jpg</image>
-    <url>https://sample.com/news</url>
-    <redirect>n</redirect>
-  </panel>
-  
-  <panel>
-    <number>3</number>
-    <image>https://sample.com/image3.jpg</image>
-    <url>https://sample.com/events</url>
+    <image>https://github.com/amichaelwagner/reimagined-goggles/blob/main/placeholder2.jpg?raw=true</image>
+    <url>https://www.jacapps.com/blog/holiday-2020-bringing-the-stores-to-you</url>
     <redirect>n</redirect>
   </panel>
 
