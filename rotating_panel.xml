@@ -15,5 +15,12 @@
     <url>https://www.jacapps.com/blog/holiday-2020-bringing-the-stores-to-you</url>
     <redirect>n</redirect>
   </panel>
+  
+  <panel>
+    <number>2</number>
+    <image>https://github.com/amichaelwagner/reimagined-goggles/blob/main/share-love-app.jpg?raw=true</image>
+    <url>https://www.concertsinyourcar.com/sandiego</url>
+    <redirect>n</redirect>
+  </panel>
 
 </rotator>
